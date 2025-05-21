@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishveshwarTiwari
 - 👀 I’m interested in ...Web Development, Java, Python, javascript
 - 🌱 I’m currently learning Java, SpringBoot and Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SpringBoot and Microservices
 - 📫 How to reach me ...
 
 <!---
