@@ -11,12 +11,12 @@ I'm a backend-focused Java developer with 6+ years of experience building scalab
 
 ## 💼 Tech Stack
 
-- **Languages**: Java 17, SQL
-- **Frameworks**: Spring Boot, Spring Cloud (Eureka, Feign, Gateway)
+- **Languages**: Java 17, Python, Javascript, Groovy SQL
+- **Frameworks**: Spring Boot, Spring Cloud (Eureka, Feign, Gateway), Django
 - **Database**: H2, MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, Jenkins, AWS (EC2, S3, RDS)
-- **Tools**: Git, Maven, Postman, IntelliJ, Eclipse, VS Code
-- **Frontend (Basic)**: React.js
+- **Tools**: Git, Maven, Postman, Insomnia, IntelliJ, Eclipse, VS Code
+- **Frontend (Basic)**: React.js, HTML, CSS, JavaScript
 
 ---
 
