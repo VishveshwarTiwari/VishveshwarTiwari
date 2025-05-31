@@ -37,5 +37,5 @@ I'm a backend-focused Java developer with 6+ years of experience building scalab
 
 ## 📫 How to reach me ...
 
-- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vishveshwar-tiwari-873645140/))
-- 🐙 [GitHub]([https://github.com/YOUR_USERNAME](https://github.com/VishveshwarTiwari))
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishveshwar-tiwari-873645140/)
+- 🐙 [GitHub]((https://github.com/VishveshwarTiwari))
